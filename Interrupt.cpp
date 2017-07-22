@@ -1,6 +1,8 @@
-//
-// Created by steyn on 17-6-5.
-//
+/*
+ * Created by Steyn Huurman on 05-06-2017
+ *
+ * You can ask me questions: zebro@steynhuurman.nl
+ */
 
 #include <avr/io.h>
 #include "Interrupt.h"

@@ -1,6 +1,8 @@
-//
-// Created by steyn on 17-6-7.
-//
+/*
+ * Created by Steyn Huurman on 07-06-2017
+ *
+ * You can ask me questions: zebro@steynhuurman.nl
+ */
 
 #ifndef ZEBRO_XMEGA_TIMER_COUNTER_TYPE_0_H
 #define ZEBRO_XMEGA_TIMER_COUNTER_TYPE_0_H

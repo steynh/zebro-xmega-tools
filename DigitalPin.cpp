@@ -1,6 +1,8 @@
-//
-// Created by steyn on 17-6-2.
-//
+/*
+ * Created by Steyn Huurman on 02-06-2017
+ *
+ * You can ask me questions: zebro@steynhuurman.nl
+ */
 
 #include "DigitalPin.h"
 

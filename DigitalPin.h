@@ -1,6 +1,8 @@
-//
-// Created by steyn on 17-6-2.
-//
+/*
+ * Created by Steyn Huurman on 02-06-2017
+ *
+ * You can ask me questions: zebro@steynhuurman.nl
+ */
 
 #ifndef ZEBRO_XMEGA_DIGITALPIN_H
 #define ZEBRO_XMEGA_DIGITALPIN_H

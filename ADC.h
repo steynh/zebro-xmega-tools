@@ -1,6 +1,8 @@
-//
-// Created by steyn on 17-6-4.
-//
+/*
+ * Created by Steyn Huurman on 04-06-2017
+ *
+ * You can ask me questions: zebro@steynhuurman.nl
+ */
 
 #ifndef ZEBRO_XMEGA_ADC_H
 #define ZEBRO_XMEGA_ADC_H
